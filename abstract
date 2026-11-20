@@ -1,0 +1,136 @@
+Team W – Work & GitHub Commit Division
+Member 1 – Vehicle & Job Card Management
+Coding responsibilities
+- Vehicle class
+- JobCard class
+- Vehicle registration
+- Generate unique Job ID
+- Display job card
+- Search vehicle
+15 commit plan
+Commit	Meaningful commit message
+1	Created project structure
+2	Added Vehicle class
+3	Added vehicle owner details
+4	Added vehicle number field
+5	Added vehicle model field
+6	Added Vehicle constructor
+7	Implemented encapsulation
+8	Added getters and setters
+9	Created JobCard class
+10	Added Job ID generation
+11	Implemented job card creation
+12	Added job card display
+13	Added vehicle search
+14	Added ArrayList for vehicle records
+15	Tested vehicle and job card module
+
+Member 2 – Service Status Management
+Coding responsibilities
+- Service class
+- ServiceStatus class
+- Update service status
+- Display current status
+- Validate Job ID
+- InvalidServiceException
+15 commit plan
+Commit	Meaningful commit message
+1	Added abstract Service class
+2	Added service status fields
+3	Created ServiceStatus class
+4	Added Pending status
+5	Added In Progress status
+6	Added Completed status
+7	Implemented status update method
+8	Added Job ID validation
+9	Created InvalidServiceException
+10	Added exception handling
+11	Implemented method overriding
+12	Added HashMap for service status
+13	Added status display
+14	Tested status update functionality
+15	Fixed service status validation
+
+Member 3 – Spare Parts & Billing
+Coding responsibilities
+- SparePart class
+- Billing class
+- Add spare parts
+- Calculate service charges
+- Generate bill receipt
+- InvalidBillException
+15 commit plan
+Commit	Meaningful commit message
+1	Created SparePart class
+2	Added spare part name
+3	Added spare part cost
+4	Added spare parts input
+5	Created Billing class
+6	Added labour charge
+7	Implemented bill calculation
+8	Added spare parts total
+9	Calculated final bill
+10	Implemented method overloading
+11	Added InvalidBillException
+12	Added negative amount validation
+13	Implemented exception handling
+14	Created bill receipt display
+15	Tested billing functionality
+
+Member 4 – Service History & Main Menu
+Coding responsibilities
+- ServiceHistory class
+- ServiceQueue class
+- Search service history
+- Display pending jobs
+- Queue implementation
+- Main menu integration
+15 commit plan
+Commit	Meaningful commit message
+1	Created ServiceHistory class
+2	Added service record display
+3	Implemented Job ID search
+4	Added service history search
+5	Created ServiceQueue class
+6	Implemented queue array
+7	Added enqueue operation
+8	Added dequeue operation
+9	Implemented FIFO processing
+10	Added pending jobs display
+11	Added queue empty condition
+12	Created main menu
+13	Integrated vehicle module
+14	Integrated billing and service modules
+15	Tested complete application
+
+
+
+this project has been divided into 4 modules for each team member mine is module 1
+these are the features i need to cover:
+Member 1 – Vehicle & Job Card Management
+Coding responsibilities
+- Vehicle class
+- JobCard class
+- Vehicle registration
+- Generate unique Job ID
+- Display job card
+- Search vehicle
+15 commit plan
+Commit	Meaningful commit message
+1	Created project structure
+2	Added Vehicle class
+3	Added vehicle owner details
+4	Added vehicle number field
+5	Added vehicle model field
+6	Added Vehicle constructor
+7	Implemented encapsulation
+8	Added getters and setters
+9	Created JobCard class
+10	Added Job ID generation
+11	Implemented job card creation
+12	Added job card display
+13	Added vehicle search
+14	Added ArrayList for vehicle records
+15	Tested vehicle and job card module
+constraints:
+jobcard class make sure all the feilds are taken into consideration only if the vehical reg has been done and the inputs are valid and create a seperate list for jobcards and vehicle class will be stored in array list for now.
